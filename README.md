@@ -1,4 +1,4 @@
-simple keyboard driven stopwatch timer
+simple stopwatch timer
 
 available at: https://potatoritos.github.io/timer/
 
